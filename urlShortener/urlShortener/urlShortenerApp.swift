@@ -11,7 +11,7 @@ import SwiftUI
 struct urlShortenerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            firstScreen()
         }
     }
 }

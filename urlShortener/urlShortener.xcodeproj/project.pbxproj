@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C404BA8D288F3EBD0037B4D3 /* firstScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C404BA8C288F3EBD0037B4D3 /* firstScreen.swift */; };
 		C491660B288F0EF80097E9D1 /* urlShortenerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C491660A288F0EF80097E9D1 /* urlShortenerApp.swift */; };
 		C491660D288F0EF80097E9D1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C491660C288F0EF80097E9D1 /* ContentView.swift */; };
 		C491660F288F0EF90097E9D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C491660E288F0EF90097E9D1 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C404BA8C288F3EBD0037B4D3 /* firstScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstScreen.swift; sourceTree = "<group>"; };
 		C4916607288F0EF80097E9D1 /* urlShortener.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = urlShortener.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C491660A288F0EF80097E9D1 /* urlShortenerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = urlShortenerApp.swift; sourceTree = "<group>"; };
 		C491660C288F0EF80097E9D1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				C4916618288F11670097E9D1 /* URLShortManager.swift */,
 				C491660E288F0EF90097E9D1 /* Assets.xcassets */,
 				C4916610288F0EF90097E9D1 /* Preview Content */,
+				C404BA8C288F3EBD0037B4D3 /* firstScreen.swift */,
 			);
 			path = urlShortener;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C404BA8D288F3EBD0037B4D3 /* firstScreen.swift in Sources */,
 				C4916619288F11670097E9D1 /* URLShortManager.swift in Sources */,
 				C491660D288F0EF80097E9D1 /* ContentView.swift in Sources */,
 				C491660B288F0EF80097E9D1 /* urlShortenerApp.swift in Sources */,
